@@ -6,6 +6,7 @@
 
 Flew Pay is a revolutionary payment platform that empowers small businesses and travelers by enabling seamless, borderless transactions. With our token-based system, tourists can pay locally by simply scanning a QR code, while businesses benefit from instant payouts in their local currency. Our vision extends to gamified rewards, microcredits for frequent users, on-ramp solutions for crypto, NFC payments, and a dedicated digital card, creating a globally connected, inclusive, and innovative financial ecosystem. Flew Pay: Building bridges between cultures, economies, and opportunities.
 
+![Logo](https://github.com/flewpaycom/HardHat-Engine/blob/main/ArchitectureFlewPay.png)
 
 
 
