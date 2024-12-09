@@ -42,7 +42,8 @@ Flew Pay is a revolutionary payment platform that empowers small businesses and 
 Install flew pay backend with npm
 
 ```bash
-$ npm install
+$ yarn install
+
 ```
 
 ## Compile and run the project
@@ -50,5 +51,10 @@ $ npm install
 ```bash
 # development
 $ npx hardhat deploy
+
+
+$ yarn deploy
+
+
 
 ```
